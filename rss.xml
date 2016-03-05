@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Trans United Fund]]></title>
         <description><![CDATA[Trans United Fund]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/transunitedfund/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 01:32:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 02:38:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/transunitedfund/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f78a9843-0538-44f3-812e-0a8e65002c11.jpg">]]></description>
+            <link>https://thegrid.ai/transunitedfund/9337e0ce-acfb-44b3-a2c2-98e158d28451/index.html</link>
+            <guid isPermaLink="false">9337e0ce-acfb-44b3-a2c2-98e158d28451</guid>
+            <pubDate>Sat, 05 Mar 2016 02:37:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e5edddc-464a-4ef6-bf21-c39e82d64281.png">]]></description>
-            <link>undefineda4525a02-e529-4c97-a190-25f46f8f9759/index.html</link>
+            <link>https://thegrid.ai/transunitedfund/a4525a02-e529-4c97-a190-25f46f8f9759/index.html</link>
             <guid isPermaLink="false">a4525a02-e529-4c97-a190-25f46f8f9759</guid>
             <pubDate>Sat, 05 Mar 2016 01:30:37 GMT</pubDate>
         </item>
