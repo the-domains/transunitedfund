@@ -17,12 +17,12 @@ keywords:
   - anti-trans
   - committee
 description: "Republican National Committee Endorses Anti-Trans 'Bathroom Bills' In a move that is sure to bring cheer to anti-transgender activists and the Republican presidential candidates who seek their votes nationwide, the Republican National Committee has approved a resolution endorsing so-called bathroom bills, reports the Washington Blade."
-datePublished: '2016-03-05T08:20:40.583Z'
-dateModified: '2016-03-05T08:20:40.303Z'
+datePublished: '2016-03-05T08:56:12.166Z'
+dateModified: '2016-03-05T08:55:56.837Z'
 author: []
 related: []
 app_links: []
-title: RNC Endorses Anti-Trans Bathroom Bill
+title: l
 sourcePath: _posts/2016-03-05-rnc-endorses-anti-trans-bathroom-bill.md
 published: true
 authors: []
@@ -35,7 +35,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# RNC Endorses Anti-Trans Bathroom Bill
+# l
 
 # RNC Endorses Anti-Trans Bathroom Bill
 
