@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-05T08:19:24.751Z'
-dateModified: '2016-03-05T08:19:21.691Z'
+datePublished: '2016-03-05T08:19:57.031Z'
+dateModified: '2016-03-05T08:19:33.664Z'
 title: "Presidential\_Endorsement Program\_"
 author: []
 sourcePath: _posts/2016-03-05-presidential-endorsement-program.md
@@ -33,7 +33,3 @@ Even if we were to achieve full, legal equality tomorrow, it would not reverse t
 
 * **Practice** Candidates track records of the past and commitments for the future are crucial but at TUF, we believe that one of the greatest indicators of how candidates for the office of President will trans trans people when elected, is how they treat them when they're running for office. That's why as part of our endorsement process, TUF asks candidates to outline if they employ trans folks as part of their campaigns and if so at what level, do they have an explicit non-discrimination policy that includes gender identity and gender expression, do they have a transition policy and inclusive healthcare for their staff.                                                                                        
 * **Preach                                                                                                           **
-
-Walking the Walk 
-
-Bully Pulpit
