@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-05T08:53:46.694Z'
-dateModified: '2016-03-05T08:53:12.601Z'
+datePublished: '2016-03-05T09:41:22.708Z'
+dateModified: '2016-03-05T09:41:16.060Z'
 title: "Presidential\_Endorsement Program\_"
 author: []
 sourcePath: _posts/2016-03-05-presidential-endorsement-program.md
@@ -28,8 +28,8 @@ _type: Article
 
 ****T**rans United Fund will evaluate candidates based on the following criteria:**
 
-* **Full, Legal Equality                                                                                 **The legal equality category includes issues such as support for the Federal Equality Act and opposition.  These issues are crucial ****but support for basic, legal equality is a pre-requisite for support, not a guarantee. Trans United will evaluate the candidates track record, public statements and formal responses to the **T**rans United Fund candidate questionnaire                     
-* **Impact/Equity  ******Trans people, our families and our communities are disproportionately impacted by issues such as HIV/AIDS, Unemployment, Violence, Incarceration, Immigration Detention and Healthcare Disparities. Working to expand full, legal equality to trans communities is a crucial goal for our movement but in and of itself, it is insufficient.  To earn our endorsement, candidates must demonstrate how they will use the full power of the office they seek to address these challenge                                                                                                
+* **Legal Equality                                                                                 **The legal equality category includes issues such as support for the Federal Equality Act and opposition.  Working to expand full, legal equality to trans communities is a crucial goal for our movement but in and of itself, it is insufficient.These issues are crucial ****but support for basic, legal equality is a pre-requisite for support, not a guarantee. Trans United will evaluate the candidates track record, public statements and formal responses to the **T**rans United Fund candidate questionnaire                                                                                                      
+* **Equitable Opportunity                                                                                     **Trans people, our families and our communities are disproportionately impacted by issues such as HIV/AIDS, Unemployment, Violence, Incarceration, Immigration Detention and Healthcare Disparities.  To earn our endorsement, candidates must demonstrate how they will use the full power of the office they seek to address these challenge                                                                                                
 
 * **Practice** Candidates track records of the past and commitments for the future are crucial but at TUF, we believe that one of the greatest indicators of how candidates for the office of President will trans trans people when elected, is how they treat them when they're running for office. That's why as part of our endorsement process, TUF asks candidates to outline if they employ trans folks as part of their campaigns and if so at what level, do they have an explicit non-discrimination policy that includes gender identity and gender expression, do they have a transition policy and inclusive healthcare for their staff.                                                                                        
 * **Preach   ** When President Obama [uttered the word 'transgender' ][0]in his 2015 State of the Union, he broke with the tradition of Presidential silence around transgender _(and bisexual and lesbian)_ people. We **recognize, appreciate and celebrate **the President's courage and commitment and **w****e expect his successor to do better.  **The President has the power to make our lives and our communities a part of the national conversation; to hire trans staff and make appoint trans people to senior political appointments including their cabinet, the courts and key federal agencies and much, much more. 
